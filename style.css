@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #0F0F0F;
+  color: rgb(86, 164, 164)
+}
+
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+form {
+  margin-top: 60px;
+}
+
+label {
+  font-size: 30px;
+  font-family: 'Slabo 27px', serif;
+  display: block;
+}
+
+input {
+  height: 30px;
+  border-radius: 10px;
+  background-color: #56A4A4;
+  margin-top: 30px;
+  padding: 10px;
+}
+
+img {
+  margin-top: 50px;
+}
+
+a {
+  display: block;
+  text-decoration: none;
+  color: #56A4A4;
+}
